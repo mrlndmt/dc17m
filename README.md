@@ -24,14 +24,14 @@ The system is built around an ESP32-S3 microcontroller and integrates:
 
 ## Features
 
-- 🔊 Overlapping blaster sound playback
-- 💥 Full-auto and power-shot firing modes
-- 📳 Real-time haptic feedback
-- 🌈 Dynamic RGB muzzle flash
-- 📺 OLED HUD display
-- 🔋 Battery-powered architecture
-- 🔦 Integrated tactical flashlight
-- 🧩 Modular and upgrade-friendly design
+- Overlapping blaster sound playback
+- Full-auto and power-shot firing modes
+- Real-time haptic feedback
+- Dynamic RGB muzzle flash
+- OLED HUD display
+- Battery-powered architecture
+- Integrated tactical flashlight
+- Modular and upgrade-friendly design
 
 ---
 
